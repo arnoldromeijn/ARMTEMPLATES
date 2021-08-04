@@ -1,2 +1,2 @@
 # ARMTEMPLATES
-The Azure Resource Manager Templates of Arnold Romeijn
+The Azure Resource Manager Templates  and BICEP files of Arnold Romeijn
